@@ -1,2 +1,2 @@
 # bmicalc
-[!bmicalc](2022-01-26 (14).png)
+[!bmicalc](https://github.com/KrzysztofBojarczuk/bmicalc/blob/main/2022-01-26%20(14).png)
